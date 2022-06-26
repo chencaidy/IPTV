@@ -41,7 +41,7 @@ http://openwrt.lan:4022/rtp/239.49.8.52:9810
 http://openwrt.lan:4022/rtp/239.49.8.38:8632
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://openwrt.lan:4022/rtp/239.49.0.9:8064
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语-HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语-HD
 http://openwrt.lan:4022/rtp/239.49.0.111:8000
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 http://openwrt.lan:4022/rtp/239.49.8.16:9602
@@ -109,23 +109,23 @@ http://openwrt.lan:4022/rtp/239.49.0.245:8000
 http://openwrt.lan:4022/rtp/239.49.0.233:8000
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://openwrt.lan:4022/rtp/239.49.0.234:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏城市HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏城市HD
 http://openwrt.lan:4022/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏综艺HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏综艺HD
 http://openwrt.lan:4022/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏体育休闲HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏体育休闲HD
 http://openwrt.lan:4022/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏影视HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏影视HD
 http://openwrt.lan:4022/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="江苏",优漫卡通HD
 http://openwrt.lan:4022/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏公共新闻HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏公共新闻HD
 http://openwrt.lan:4022/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏国际
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏国际
 http://openwrt.lan:4022/rtp/239.49.0.22:8168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",好享购物HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",好享购物HD
 http://openwrt.lan:4022/rtp/239.49.0.121:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏教育HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏",江苏教育HD
 http://openwrt.lan:4022/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实HD
 http://openwrt.lan:4022/rtp/239.49.8.78:8000
@@ -145,7 +145,7 @@ http://openwrt.lan:4022/rtp/239.49.8.205:8000
 http://openwrt.lan:4022/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚HD
 http://openwrt.lan:4022/rtp/239.49.8.175:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="上海",动漫秀场HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="上海",动漫秀场HD
 http://openwrt.lan:4022/rtp/239.49.8.178:6000
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实HD
 http://openwrt.lan:4022/rtp/239.49.8.179:6000
@@ -185,11 +185,11 @@ http://openwrt.lan:4022/rtp/239.49.8.87:8000
 http://openwrt.lan:4022/rtp/239.49.0.166:9322
 #EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png" group-title="地方",GTV游戏竞技
 http://openwrt.lan:4022/rtp/239.49.0.162:9290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京新闻
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="地方",南京新闻
 http://openwrt.lan:4022/rtp/239.49.0.25:8192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京十八
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="地方",南京十八
 http://openwrt.lan:4022/rtp/239.49.0.26:8200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京教科
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="地方",南京教科
 http://openwrt.lan:4022/rtp/239.49.0.183:9434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京生活
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="地方",南京生活
 http://openwrt.lan:4022/rtp/239.49.0.184:9438
