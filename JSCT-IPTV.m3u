@@ -26,7 +26,7 @@ http://openwrt.lan:4022/rtp/239.49.0.11:8080
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12-HD
 http://openwrt.lan:4022/rtp/239.49.8.55:9822
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13-HD
-http://openwrt.lan:4022/rtp/239.49.8.109:8000
+http://openwrt.lan:4022/rtp/239.49.9.43:6000
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14-HD
 http://openwrt.lan:4022/rtp/239.49.8.56:9826
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
