@@ -139,7 +139,7 @@ http://openwrt.lan:4022/rtp/239.49.8.33:8000
 http://openwrt.lan:4022/rtp/239.49.0.114:8000
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",梨园HD
 http://openwrt.lan:4022/rtp/239.49.8.193:8000
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",武术世界HD
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="河南",武术世界HD
 http://openwrt.lan:4022/rtp/239.49.8.205:8000
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="河南",文物宝库HD
 http://openwrt.lan:4022/rtp/239.49.0.209:8000
