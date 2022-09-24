@@ -2,6 +2,7 @@
 
 ## 文件说明
 
+* JSCM-IPTV: 江苏移动IPTV
 * JSCT-IPTV: 江苏电信iTV
 
 ## 使用注意
