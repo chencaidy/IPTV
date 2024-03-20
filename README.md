@@ -4,6 +4,7 @@
 
 * JSCM-IPTV: 江苏移动IPTV
 * JSCT-IPTV: 江苏电信iTV
+* JXCT-IPTV: 江西电信iTV
 
 ## 使用注意
 
