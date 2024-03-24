@@ -4,19 +4,19 @@ http://115.153.230.145/PLTV/88888888/224/3221225699/iptv8040.smil/index.m3u8?fmt
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
 http://115.153.230.145/PLTV/88888888/224/3221226825/59814584.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
-http://115.153.230.145/PLTV/88888888/224/3221226930/65406412.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221226930/65406412.smil
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://115.153.230.145/PLTV/88888888/224/3221226838/59814684.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
-http://115.153.230.145/PLTV/88888888/224/3221226907/65396401.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221226907/65396401.smil
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-http://115.153.230.145/PLTV/88888888/224/3221226976/85722488.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221226976/85722488.smil
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://115.153.230.145/PLTV/88888888/224/3221226909/65396493.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221226909/65396493.smil
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://115.153.230.145/PLTV/88888888/224/3221226827/59814693.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://115.153.230.145/PLTV/88888888/224/3221226911/65406606.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221226911/65406606.smil
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
 http://115.153.230.145/PLTV/88888888/224/3221226840/59814699.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
