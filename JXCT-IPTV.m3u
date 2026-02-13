@@ -26,7 +26,7 @@ http://115.153.230.145/PLTV/88888888/224/3221226986/85722616.smil/index.m3u8?fmt
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://115.153.230.145/PLTV/88888888/224/3221226829/59814709.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://115.153.230.145/PLTV/88888888/224/3221227037/87447722.smil/index.m3u8?fmt=ts2hls
+rtsp://115.153.230.145/PLTV/88888888/224/3221227037/87447722.smil
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://115.153.230.145/PLTV/88888888/224/3221226634/51813368.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
@@ -115,7 +115,7 @@ http://115.153.230.145/PLTV/88888888/224/3221226823/59781863.smil/index.m3u8?fmt
 http://115.153.230.145/PLTV/88888888/224/3221227069/94448631.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="2012" tvg-name="江西经济生活" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV3/JXTV3.jpg" group-title="江西",江西经济生活
 http://115.153.230.145/PLTV/88888888/224/3221226946/70055407.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="noepg" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV4/JXTV4.jpg" group-title="江西",江西影视旅游
+#EXTINF:-1 tvg-id="2013" tvg-name="noepg" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV4/JXTV4.jpg" group-title="江西",江西影视旅游
 http://115.153.230.145/PLTV/88888888/224/3221227071/98779894.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="2014" tvg-name="江西公共农业" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV5/JXTV5.jpg" group-title="江西",江西公共农业
 http://115.153.230.145/PLTV/88888888/224/3221226708/53213097.smil/index.m3u8?fmt=ts2hls
@@ -123,7 +123,7 @@ http://115.153.230.145/PLTV/88888888/224/3221226708/53213097.smil/index.m3u8?fmt
 http://115.153.230.145/PLTV/88888888/224/3221226938/68733921.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="2015" tvg-name="江西新闻" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV7/JXTV7.jpg" group-title="江西",江西新闻
 http://115.153.230.145/PLTV/88888888/224/3221226650/53190437.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="noepg" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV8/JXTV8.jpg" group-title="江西",江西移动电视
+#EXTINF:-1 tvg-id="2016" tvg-name="noepg" tvg-logo="http://pic1.kookong.com/images/logo/channel/JXTV8/JXTV8.jpg" group-title="江西",江西移动电视
 http://115.153.230.145/PLTV/88888888/224/3221227070/96801473.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西教育
+#EXTINF:-1 tvg-id="2017" tvg-name="noepg" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西教育
 http://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil/index.m3u8?fmt=ts2hls
